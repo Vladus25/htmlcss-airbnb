@@ -11,12 +11,12 @@
 .container{
   position: relative;
   height: 100vh;
-  width: 100vw;
+  width: 100%;
   margin: 5px;
 }
 
 .image{
-  width: 100vw;
+  width: 100%;
   height: 100vh;
   border: 5px solid;
   border-radius: 40px;
@@ -39,6 +39,6 @@
   left: 0;
   top: 0;
   height: 100vh;
-  width: 100vw;
+  width: 100%;
   z-index: 100;
 }
